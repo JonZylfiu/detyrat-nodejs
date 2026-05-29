@@ -1,0 +1,10 @@
+
+const userService = require("../services/users.service");
+
+function getAllUsers(req,res) {
+    const users = userService.getAllUsersService();
+    return users;
+}
+
+
+module.exports = getAllUsers;

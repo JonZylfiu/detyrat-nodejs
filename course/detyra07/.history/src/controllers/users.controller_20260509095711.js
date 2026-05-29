@@ -1,0 +1,6 @@
+
+function getAllUsers() {
+    return "data";
+}
+
+

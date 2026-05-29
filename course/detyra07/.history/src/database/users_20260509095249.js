@@ -1,0 +1,7 @@
+const users = [
+    {id: 1, name:"Filan", last_name:"Fisteku"},
+    {id: 2, name:"Bob", last_name:"Alice"}
+]
+
+//camelCase = userNameLastname
+//snake_case = user_name_lastname
